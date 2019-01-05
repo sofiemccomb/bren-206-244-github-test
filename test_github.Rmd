@@ -19,6 +19,8 @@ red <- 15
 
 purple <- blue/red
 
+sansa<-"Queen of the North"
+
 ```
 
 After making minimal changes, SAVE this .Rmd (default will be to the project folder, but check to make sure).
